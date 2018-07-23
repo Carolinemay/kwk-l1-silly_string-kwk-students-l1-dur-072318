@@ -9,7 +9,7 @@ puts "My favorite word is hi"#{your_favorite_word}"
 
 favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite word and use a String method.
 your_favorite_word = "hi".upcase
-puts "MY FAVORITE WORD IS HI"
+puts "MY FAVORITE WORD IS #{your_favorite_word}"
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 
